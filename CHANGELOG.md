@@ -509,3 +509,4 @@
 - 2026-03-12: Refine text
 - 2026-01-18: Update guide
 - 2026-06-22: Add note
+- 2026-12-28: Small fix
