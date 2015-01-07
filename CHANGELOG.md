@@ -49,3 +49,4 @@
 - 2015-09-06: Clarify section
 - 2015-01-26: Add detail
 - 2015-10-08: Typo fix
+- 2015-01-07: Fix example
