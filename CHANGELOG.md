@@ -57,3 +57,4 @@
 - 2015-10-07: Fix example
 - 2015-01-05: Improve docs
 - 2015-07-15: Improve docs
+- 2015-02-08: Review content
