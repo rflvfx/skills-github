@@ -34,3 +34,4 @@
 - 2015-11-11: Minor update
 - 2015-10-07: Review content
 - 2015-08-11: Add remark
+- 2015-02-21: Improve docs
