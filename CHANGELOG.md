@@ -58,3 +58,4 @@
 - 2015-01-05: Improve docs
 - 2015-07-15: Improve docs
 - 2015-02-08: Review content
+- 2015-04-23: Update guide
