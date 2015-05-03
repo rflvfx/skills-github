@@ -69,3 +69,4 @@
 - 2015-04-20: Typo fix
 - 2015-02-03: Clarify section
 - 2015-07-25: Update guide
+- 2015-05-03: Add remark
