@@ -59,3 +59,4 @@
 - 2015-07-15: Improve docs
 - 2015-02-08: Review content
 - 2015-04-23: Update guide
+- 2015-06-20: Small fix
