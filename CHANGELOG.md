@@ -38,3 +38,4 @@
 - 2015-04-03: Add remark
 - 2015-11-04: Add note
 - 2015-09-14: Expand section
+- 2015-07-16: Typo fix
