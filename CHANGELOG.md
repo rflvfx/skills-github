@@ -51,3 +51,4 @@
 - 2015-10-08: Typo fix
 - 2015-01-07: Fix example
 - 2015-11-10: Typo fix
+- 2015-07-20: Improve docs
