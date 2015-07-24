@@ -42,3 +42,4 @@
 - 2015-05-19: Update guide
 - 2015-05-27: Review content
 - 2015-01-25: Improve docs
+- 2015-07-24: Adjust content
