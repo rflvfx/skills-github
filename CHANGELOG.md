@@ -45,3 +45,4 @@
 - 2015-07-24: Adjust content
 - 2015-01-01: Fix example
 - 2015-11-28: Fix example
+- 2015-08-01: Polish docs
