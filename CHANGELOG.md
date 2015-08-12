@@ -52,3 +52,4 @@
 - 2015-01-07: Fix example
 - 2015-11-10: Typo fix
 - 2015-07-20: Improve docs
+- 2015-08-12: Add note
