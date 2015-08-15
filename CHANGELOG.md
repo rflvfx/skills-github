@@ -71,3 +71,4 @@
 - 2015-07-25: Update guide
 - 2015-05-03: Add remark
 - 2015-06-10: Add note
+- 2015-08-15: Update notes
