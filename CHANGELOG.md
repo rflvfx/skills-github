@@ -62,3 +62,4 @@
 - 2015-06-20: Small fix
 - 2015-09-23: Improve docs
 - 2015-11-11: Refine text
+- 2015-08-24: Update notes
