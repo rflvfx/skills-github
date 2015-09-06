@@ -46,3 +46,4 @@
 - 2015-01-01: Fix example
 - 2015-11-28: Fix example
 - 2015-08-01: Polish docs
+- 2015-09-06: Clarify section
