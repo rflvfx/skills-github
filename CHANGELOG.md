@@ -37,3 +37,4 @@
 - 2015-02-21: Improve docs
 - 2015-04-03: Add remark
 - 2015-11-04: Add note
+- 2015-09-14: Expand section
