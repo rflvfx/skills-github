@@ -60,3 +60,4 @@
 - 2015-02-08: Review content
 - 2015-04-23: Update guide
 - 2015-06-20: Small fix
+- 2015-09-23: Improve docs
