@@ -54,3 +54,4 @@
 - 2015-07-20: Improve docs
 - 2015-08-12: Add note
 - 2015-09-08: Adjust content
+- 2015-10-07: Fix example
