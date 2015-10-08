@@ -48,3 +48,4 @@
 - 2015-08-01: Polish docs
 - 2015-09-06: Clarify section
 - 2015-01-26: Add detail
+- 2015-10-08: Typo fix
