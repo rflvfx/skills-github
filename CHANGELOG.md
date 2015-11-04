@@ -36,3 +36,4 @@
 - 2015-08-11: Add remark
 - 2015-02-21: Improve docs
 - 2015-04-03: Add remark
+- 2015-11-04: Add note
