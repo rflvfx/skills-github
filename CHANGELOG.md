@@ -64,3 +64,4 @@
 - 2015-11-11: Refine text
 - 2015-08-24: Update notes
 - 2015-09-20: Review content
+- 2015-11-15: Add detail
