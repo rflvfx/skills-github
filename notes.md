@@ -4,3 +4,4 @@
 - 2015-07-12: Refine text
 - 2015-01-24: Clarify section
 - 2015-06-20: Refine text
+- 2015-11-19: Small fix
