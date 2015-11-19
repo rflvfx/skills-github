@@ -77,3 +77,4 @@
 - 2015-12-15: Add note
 - 2015-09-15: Add remark
 - 2015-05-09: Fix example
+- 2015-11-19: Add note
