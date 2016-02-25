@@ -13,3 +13,4 @@
 - 2016-04-19: Add remark
 - 2016-12-16: Update guide
 - 2016-10-25: Add note
+- 2016-02-25: Improve docs
