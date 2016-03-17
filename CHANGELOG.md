@@ -109,3 +109,4 @@
 - 2016-01-03: Clarify section
 - 2016-06-22: Improve docs
 - 2016-06-26: Clarify section
+- 2016-03-17: Polish docs
