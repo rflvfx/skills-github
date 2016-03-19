@@ -112,3 +112,4 @@
 - 2016-03-17: Polish docs
 - 2016-10-20: Add detail
 - 2016-05-10: Clarify section
+- 2016-03-19: Update notes
