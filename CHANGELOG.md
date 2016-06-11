@@ -100,3 +100,4 @@
 - 2016-09-09: Polish docs
 - 2016-08-05: Refine text
 - 2016-03-21: Adjust content
+- 2016-06-11: Fix example
