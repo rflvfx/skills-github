@@ -108,3 +108,4 @@
 - 2016-12-28: Typo fix
 - 2016-01-03: Clarify section
 - 2016-06-22: Improve docs
+- 2016-06-26: Clarify section
