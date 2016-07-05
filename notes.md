@@ -8,3 +8,4 @@
 - 2015-03-11: Add note
 - 2015-09-25: Small fix
 - 2016-08-05: Expand section
+- 2016-07-05: Minor update
