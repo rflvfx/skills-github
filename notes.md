@@ -16,3 +16,4 @@
 - 2016-02-25: Improve docs
 - 2016-07-16: Review content
 - 2016-04-27: Polish docs
+- 2016-07-13: Small fix
