@@ -80,3 +80,4 @@
 - 2015-11-19: Add note
 - 2016-07-12: Polish docs
 - 2016-12-08: Clarify section
+- 2016-07-24: Update notes
