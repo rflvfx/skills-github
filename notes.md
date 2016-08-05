@@ -7,3 +7,4 @@
 - 2015-11-19: Small fix
 - 2015-03-11: Add note
 - 2015-09-25: Small fix
+- 2016-08-05: Expand section
