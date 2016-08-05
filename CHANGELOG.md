@@ -113,3 +113,4 @@
 - 2016-10-20: Add detail
 - 2016-05-10: Clarify section
 - 2016-03-19: Update notes
+- 2016-08-05: Small fix
