@@ -98,3 +98,4 @@
 - 2016-07-10: Small fix
 - 2016-09-28: Improve docs
 - 2016-09-09: Polish docs
+- 2016-08-05: Refine text
