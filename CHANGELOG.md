@@ -89,3 +89,4 @@
 - 2016-10-12: Add detail
 - 2016-05-10: Update notes
 - 2016-09-24: Fix example
+- 2016-08-16: Refine text
