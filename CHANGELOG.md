@@ -88,3 +88,4 @@
 - 2016-11-08: Expand section
 - 2016-10-12: Add detail
 - 2016-05-10: Update notes
+- 2016-09-24: Fix example
