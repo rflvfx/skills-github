@@ -96,3 +96,4 @@
 - 2016-08-04: Add detail
 - 2016-05-13: Improve docs
 - 2016-07-10: Small fix
+- 2016-09-28: Improve docs
