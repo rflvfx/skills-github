@@ -119,3 +119,4 @@
 - 2016-11-08: Minor update
 - 2016-04-02: Refine text
 - 2016-12-10: Small fix
+- 2016-10-08: Typo fix
