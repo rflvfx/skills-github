@@ -12,3 +12,4 @@
 - 2016-11-06: Adjust content
 - 2016-04-19: Add remark
 - 2016-12-16: Update guide
+- 2016-10-25: Add note
