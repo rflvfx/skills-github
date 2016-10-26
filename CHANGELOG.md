@@ -102,3 +102,4 @@
 - 2016-03-21: Adjust content
 - 2016-06-11: Fix example
 - 2016-11-25: Improve docs
+- 2016-10-26: Typo fix
