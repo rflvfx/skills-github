@@ -85,3 +85,4 @@
 - 2016-12-14: Small fix
 - 2016-10-05: Review content
 - 2016-11-05: Review content
+- 2016-11-08: Expand section
