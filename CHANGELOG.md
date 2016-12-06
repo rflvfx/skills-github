@@ -81,3 +81,4 @@
 - 2016-07-12: Polish docs
 - 2016-12-08: Clarify section
 - 2016-07-24: Update notes
+- 2016-12-06: Improve docs
