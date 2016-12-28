@@ -105,3 +105,4 @@
 - 2016-10-26: Typo fix
 - 2016-08-11: Clarify section
 - 2016-03-15: Expand section
+- 2016-12-28: Typo fix
