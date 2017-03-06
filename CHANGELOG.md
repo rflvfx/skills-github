@@ -124,3 +124,4 @@
 - 2017-09-21: Fix example
 - 2017-06-04: Polish docs
 - 2017-09-09: Add remark
+- 2017-03-06: Clarify section
