@@ -19,3 +19,4 @@
 - 2016-07-13: Small fix
 - 2016-03-09: Add note
 - 2017-08-24: Expand section
+- 2017-05-11: Refine text
