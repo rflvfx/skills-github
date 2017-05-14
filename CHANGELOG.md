@@ -126,3 +126,4 @@
 - 2017-09-09: Add remark
 - 2017-03-06: Clarify section
 - 2017-11-05: Improve docs
+- 2017-05-14: Typo fix
