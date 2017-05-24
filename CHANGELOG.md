@@ -127,3 +127,4 @@
 - 2017-03-06: Clarify section
 - 2017-11-05: Improve docs
 - 2017-05-14: Typo fix
+- 2017-05-24: Minor update
