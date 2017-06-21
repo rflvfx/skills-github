@@ -161,3 +161,4 @@
 - 2017-11-03: Expand section
 - 2017-08-12: Review content
 - 2017-05-06: Add remark
+- 2017-06-21: Improve docs
