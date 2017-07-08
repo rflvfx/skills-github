@@ -20,3 +20,4 @@
 - 2016-03-09: Add note
 - 2017-08-24: Expand section
 - 2017-05-11: Refine text
+- 2017-07-08: Refine text
