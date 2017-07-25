@@ -143,3 +143,4 @@
 - 2017-09-27: Refine text
 - 2017-04-05: Refine text
 - 2017-10-27: Adjust content
+- 2017-07-25: Small fix
