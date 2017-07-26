@@ -149,3 +149,4 @@
 - 2017-11-04: Clarify section
 - 2017-05-18: Add detail
 - 2017-02-12: Add detail
+- 2017-07-26: Polish docs
