@@ -136,3 +136,4 @@
 - 2017-04-14: Review content
 - 2017-11-21: Expand section
 - 2017-10-01: Fix example
+- 2017-10-01: Add note
