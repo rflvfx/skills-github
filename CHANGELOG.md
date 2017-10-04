@@ -163,3 +163,4 @@
 - 2017-05-06: Add remark
 - 2017-06-21: Improve docs
 - 2017-10-21: Update guide
+- 2017-10-04: Improve docs
