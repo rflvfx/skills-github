@@ -162,3 +162,4 @@
 - 2017-08-12: Review content
 - 2017-05-06: Add remark
 - 2017-06-21: Improve docs
+- 2017-10-21: Update guide
