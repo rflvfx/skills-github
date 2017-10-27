@@ -142,3 +142,4 @@
 - 2017-05-03: Clarify section
 - 2017-09-27: Refine text
 - 2017-04-05: Refine text
+- 2017-10-27: Adjust content
