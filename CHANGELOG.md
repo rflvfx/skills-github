@@ -158,3 +158,4 @@
 - 2017-06-07: Refine text
 - 2017-05-25: Add detail
 - 2017-01-02: Polish docs
+- 2017-11-03: Expand section
