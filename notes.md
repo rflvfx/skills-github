@@ -22,3 +22,4 @@
 - 2017-05-11: Refine text
 - 2017-07-08: Refine text
 - 2017-12-12: Adjust content
+- 2017-11-27: Expand section
