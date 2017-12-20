@@ -153,3 +153,4 @@
 - 2017-10-22: Clarify section
 - 2017-12-25: Add remark
 - 2017-03-09: Add remark
+- 2017-12-20: Add detail
