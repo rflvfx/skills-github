@@ -171,3 +171,4 @@
 - 2018-01-11: Minor update
 - 2018-02-02: Update notes
 - 2018-01-23: Add note
+- 2018-01-04: Add detail
