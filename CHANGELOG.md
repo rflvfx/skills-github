@@ -187,3 +187,4 @@
 - 2018-09-13: Clarify section
 - 2018-09-17: Add detail
 - 2018-11-09: Refine text
+- 2018-01-12: Clarify section
