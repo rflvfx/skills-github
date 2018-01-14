@@ -189,3 +189,4 @@
 - 2018-11-09: Refine text
 - 2018-01-12: Clarify section
 - 2018-01-15: Adjust content
+- 2018-01-14: Polish docs
