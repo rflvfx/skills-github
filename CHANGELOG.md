@@ -170,3 +170,4 @@
 - 2018-05-05: Typo fix
 - 2018-01-11: Minor update
 - 2018-02-02: Update notes
+- 2018-01-23: Add note
