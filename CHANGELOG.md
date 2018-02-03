@@ -178,3 +178,4 @@
 - 2018-09-04: Fix example
 - 2018-08-18: Review content
 - 2018-10-17: Improve docs
+- 2018-02-03: Expand section
