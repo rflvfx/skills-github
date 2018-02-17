@@ -201,3 +201,4 @@
 - 2018-06-22: Clarify section
 - 2018-07-03: Small fix
 - 2018-04-09: Add detail
+- 2018-02-17: Clarify section
