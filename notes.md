@@ -32,3 +32,4 @@
 - 2017-02-11: Update notes
 - 2018-04-06: Add detail
 - 2018-08-24: Refine text
+- 2018-03-10: Expand section
