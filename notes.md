@@ -33,3 +33,4 @@
 - 2018-04-06: Add detail
 - 2018-08-24: Refine text
 - 2018-03-10: Expand section
+- 2018-03-13: Polish docs
