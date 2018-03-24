@@ -172,3 +172,4 @@
 - 2018-02-02: Update notes
 - 2018-01-23: Add note
 - 2018-01-04: Add detail
+- 2018-03-24: Expand section
