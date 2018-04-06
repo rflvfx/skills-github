@@ -30,3 +30,4 @@
 - 2017-03-17: Update notes
 - 2017-04-28: Polish docs
 - 2017-02-11: Update notes
+- 2018-04-06: Add detail
