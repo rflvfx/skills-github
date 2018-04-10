@@ -1,1 +1,2 @@
 - 2016-01-16: Add resource link (skills-github)
+- 2018-04-10: Add code snippet (skills-github)
