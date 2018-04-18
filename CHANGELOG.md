@@ -180,3 +180,4 @@
 - 2018-10-17: Improve docs
 - 2018-02-03: Expand section
 - 2018-03-08: Improve docs
+- 2018-04-18: Add note
