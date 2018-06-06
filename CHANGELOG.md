@@ -6,3 +6,4 @@
 - 2016-03-02: Improve code owners coverage
 - 2016-09-24: Document release automation
 - 2017-02-01: Refine issue templates guide
+- 2018-06-06: Update concurrency groups reference
