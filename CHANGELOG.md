@@ -7,3 +7,4 @@
 - 2016-09-24: Document release automation
 - 2017-02-01: Refine issue templates guide
 - 2018-06-06: Update concurrency groups reference
+- 2018-06-07: Add job outputs notes
