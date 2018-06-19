@@ -194,3 +194,4 @@
 - 2018-04-04: Adjust content
 - 2018-11-22: Expand section
 - 2018-04-05: Typo fix
+- 2018-06-19: Improve docs
