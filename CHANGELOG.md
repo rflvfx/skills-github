@@ -196,3 +196,4 @@
 - 2018-04-05: Typo fix
 - 2018-06-19: Improve docs
 - 2018-05-01: Review content
+- 2018-06-25: Update guide
