@@ -182,3 +182,4 @@
 - 2018-03-08: Improve docs
 - 2018-04-18: Add note
 - 2018-08-23: Clarify section
+- 2018-07-22: Review content
