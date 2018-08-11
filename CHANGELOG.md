@@ -183,3 +183,4 @@
 - 2018-04-18: Add note
 - 2018-08-23: Clarify section
 - 2018-07-22: Review content
+- 2018-08-11: Improve docs
