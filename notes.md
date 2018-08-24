@@ -31,3 +31,4 @@
 - 2017-04-28: Polish docs
 - 2017-02-11: Update notes
 - 2018-04-06: Add detail
+- 2018-08-24: Refine text
