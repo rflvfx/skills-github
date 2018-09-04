@@ -175,3 +175,4 @@
 - 2018-03-24: Expand section
 - 2018-03-05: Add note
 - 2018-11-04: Update notes
+- 2018-09-04: Fix example
