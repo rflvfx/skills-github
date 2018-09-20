@@ -39,3 +39,4 @@
 - 2018-10-17: Adjust content
 - 2018-09-19: Fix example
 - 2018-09-13: Minor update
+- 2018-09-20: Small fix
