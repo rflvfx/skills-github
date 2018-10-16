@@ -165,3 +165,4 @@
 - 2017-10-21: Update guide
 - 2017-10-04: Improve docs
 - 2017-03-23: Refine text
+- 2018-10-16: Update guide
