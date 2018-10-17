@@ -177,3 +177,4 @@
 - 2018-11-04: Update notes
 - 2018-09-04: Fix example
 - 2018-08-18: Review content
+- 2018-10-17: Improve docs
