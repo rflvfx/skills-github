@@ -35,3 +35,4 @@
 - 2018-03-10: Expand section
 - 2018-03-13: Polish docs
 - 2018-11-14: Improve docs
+- 2018-11-02: Review content
