@@ -186,3 +186,4 @@
 - 2018-08-11: Improve docs
 - 2018-09-13: Clarify section
 - 2018-09-17: Add detail
+- 2018-11-09: Refine text
