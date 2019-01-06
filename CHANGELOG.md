@@ -249,3 +249,4 @@
 - 2019-05-02: Add detail
 - 2019-12-25: Add note
 - 2019-12-13: Expand section
+- 2019-01-06: Adjust content
