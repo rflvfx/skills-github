@@ -207,3 +207,4 @@
 - 2018-10-15: Add detail
 - 2018-05-02: Review content
 - 2018-06-06: Add remark
+- 2019-02-04: Refine text
