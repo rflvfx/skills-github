@@ -240,3 +240,4 @@
 - 2019-07-03: Review content
 - 2019-06-04: Add note
 - 2019-01-08: Small fix
+- 2019-02-20: Adjust content
