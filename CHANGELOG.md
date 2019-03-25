@@ -225,3 +225,4 @@
 - 2019-01-23: Clarify section
 - 2019-07-15: Refine text
 - 2019-09-16: Update notes
+- 2019-03-25: Typo fix
