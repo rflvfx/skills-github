@@ -51,3 +51,4 @@
 - 2019-03-07: Update guide
 - 2019-07-22: Update guide
 - 2019-01-15: Review content
+- 2019-04-19: Minor update
