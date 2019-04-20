@@ -209,3 +209,4 @@
 - 2018-06-06: Add remark
 - 2019-02-04: Refine text
 - 2019-12-10: Polish docs
+- 2019-04-20: Update notes
