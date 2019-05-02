@@ -246,3 +246,4 @@
 - 2019-02-10: Clarify section
 - 2019-12-27: Polish docs
 - 2019-08-22: Update guide
+- 2019-05-02: Add detail
