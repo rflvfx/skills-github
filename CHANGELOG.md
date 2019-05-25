@@ -8,3 +8,4 @@
 - 2017-02-01: Refine issue templates guide
 - 2018-06-06: Update concurrency groups reference
 - 2018-06-07: Add job outputs notes
+- 2019-05-25: Expand artifact uploads docs
