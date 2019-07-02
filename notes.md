@@ -44,3 +44,4 @@
 - 2018-02-21: Expand section
 - 2019-01-19: Clarify section
 - 2019-09-15: Improve docs
+- 2019-07-02: Improve docs
