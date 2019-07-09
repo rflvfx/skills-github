@@ -251,3 +251,4 @@
 - 2019-12-13: Expand section
 - 2019-01-06: Adjust content
 - 2019-10-27: Improve docs
+- 2019-07-09: Fix example
