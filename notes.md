@@ -49,3 +49,4 @@
 - 2019-01-12: Add remark
 - 2019-11-06: Refine text
 - 2019-03-07: Update guide
+- 2019-07-22: Update guide
