@@ -221,3 +221,4 @@
 - 2019-08-01: Update notes
 - 2019-08-18: Add remark
 - 2019-02-27: Add note
+- 2019-08-15: Clarify section
