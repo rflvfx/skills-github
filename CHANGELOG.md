@@ -219,3 +219,4 @@
 - 2019-05-21: Clarify section
 - 2019-09-23: Small fix
 - 2019-08-01: Update notes
+- 2019-08-18: Add remark
