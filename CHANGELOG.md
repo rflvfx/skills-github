@@ -231,3 +231,4 @@
 - 2019-12-14: Improve docs
 - 2019-08-19: Review content
 - 2019-10-28: Add remark
+- 2019-09-02: Refine text
