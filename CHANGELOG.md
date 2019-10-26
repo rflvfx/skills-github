@@ -212,3 +212,4 @@
 - 2019-04-20: Update notes
 - 2019-05-09: Adjust content
 - 2019-05-07: Add note
+- 2019-10-26: Add detail
