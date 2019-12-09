@@ -9,3 +9,4 @@
 - 2018-06-06: Update concurrency groups reference
 - 2018-06-07: Add job outputs notes
 - 2019-05-25: Expand artifact uploads docs
+- 2019-12-09: Document branch protection
