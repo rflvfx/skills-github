@@ -228,3 +228,4 @@
 - 2019-03-25: Typo fix
 - 2019-07-10: Add detail
 - 2019-11-18: Clarify section
+- 2019-12-14: Improve docs
