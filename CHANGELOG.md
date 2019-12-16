@@ -235,3 +235,4 @@
 - 2019-01-28: Small fix
 - 2019-08-21: Add detail
 - 2019-04-18: Review content
+- 2019-12-16: Improve docs
