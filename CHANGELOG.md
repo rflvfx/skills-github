@@ -247,3 +247,4 @@
 - 2019-12-27: Polish docs
 - 2019-08-22: Update guide
 - 2019-05-02: Add detail
+- 2019-12-25: Add note
