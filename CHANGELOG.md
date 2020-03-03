@@ -272,3 +272,4 @@
 - 2020-02-15: Typo fix
 - 2020-03-24: Adjust content
 - 2020-11-06: Add remark
+- 2020-03-03: Fix example
