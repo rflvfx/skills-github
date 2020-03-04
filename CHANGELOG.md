@@ -287,3 +287,4 @@
 - 2020-09-03: Add remark
 - 2020-12-12: Adjust content
 - 2020-07-26: Expand section
+- 2020-03-04: Refine text
