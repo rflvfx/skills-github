@@ -63,3 +63,4 @@
 - 2020-11-16: Update guide
 - 2020-06-21: Typo fix
 - 2020-05-23: Add note
+- 2020-03-22: Add detail
