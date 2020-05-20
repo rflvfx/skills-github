@@ -259,3 +259,4 @@
 - 2020-01-16: Add remark
 - 2020-08-25: Small fix
 - 2020-03-14: Typo fix
+- 2020-05-20: Update guide
