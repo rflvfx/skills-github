@@ -62,3 +62,4 @@
 - 2020-08-26: Fix example
 - 2020-11-16: Update guide
 - 2020-06-21: Typo fix
+- 2020-05-23: Add note
