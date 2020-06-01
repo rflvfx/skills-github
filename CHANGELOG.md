@@ -292,3 +292,4 @@
 - 2020-11-06: Review content
 - 2020-06-02: Update guide
 - 2020-07-19: Polish docs
+- 2020-06-01: Improve docs
