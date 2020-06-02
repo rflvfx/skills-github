@@ -290,3 +290,4 @@
 - 2020-03-04: Refine text
 - 2020-09-17: Adjust content
 - 2020-11-06: Review content
+- 2020-06-02: Update guide
