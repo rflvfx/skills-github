@@ -274,3 +274,4 @@
 - 2020-11-06: Add remark
 - 2020-03-03: Fix example
 - 2020-10-07: Fix example
+- 2020-06-12: Typo fix
