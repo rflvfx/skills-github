@@ -276,3 +276,4 @@
 - 2020-10-07: Fix example
 - 2020-06-12: Typo fix
 - 2020-04-23: Polish docs
+- 2020-06-13: Expand section
