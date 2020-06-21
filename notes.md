@@ -61,3 +61,4 @@
 - 2020-03-07: Add remark
 - 2020-08-26: Fix example
 - 2020-11-16: Update guide
+- 2020-06-21: Typo fix
