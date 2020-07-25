@@ -268,3 +268,4 @@
 - 2020-08-10: Add detail
 - 2020-01-03: Improve docs
 - 2020-11-03: Add remark
+- 2020-07-25: Small fix
