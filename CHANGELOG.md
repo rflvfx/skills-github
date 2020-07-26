@@ -286,3 +286,4 @@
 - 2020-01-17: Add detail
 - 2020-09-03: Add remark
 - 2020-12-12: Adjust content
+- 2020-07-26: Expand section
