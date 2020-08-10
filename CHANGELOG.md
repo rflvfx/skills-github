@@ -265,3 +265,4 @@
 - 2020-11-10: Update guide
 - 2020-08-10: Review content
 - 2020-09-17: Review content
+- 2020-08-10: Add detail
