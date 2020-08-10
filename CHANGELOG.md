@@ -263,3 +263,4 @@
 - 2020-04-01: Update guide
 - 2020-10-06: Adjust content
 - 2020-11-10: Update guide
+- 2020-08-10: Review content
