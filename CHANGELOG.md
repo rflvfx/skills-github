@@ -257,3 +257,4 @@
 - 2020-02-04: Improve docs
 - 2020-07-13: Review content
 - 2020-01-16: Add remark
+- 2020-08-25: Small fix
