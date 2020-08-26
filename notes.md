@@ -59,3 +59,4 @@
 - 2020-03-09: Expand section
 - 2020-06-09: Minor update
 - 2020-03-07: Add remark
+- 2020-08-26: Fix example
