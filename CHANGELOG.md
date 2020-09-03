@@ -294,3 +294,4 @@
 - 2020-07-19: Polish docs
 - 2020-06-01: Improve docs
 - 2020-04-24: Update notes
+- 2020-09-03: Review content
