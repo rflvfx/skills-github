@@ -261,3 +261,4 @@
 - 2020-03-14: Typo fix
 - 2020-05-20: Update guide
 - 2020-04-01: Update guide
+- 2020-10-06: Adjust content
