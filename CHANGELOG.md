@@ -12,3 +12,4 @@
 - 2019-12-09: Document branch protection
 - 2020-01-04: Improve code owners coverage
 - 2020-09-14: Improve status checks coverage
+- 2020-11-02: Refine release automation guide
