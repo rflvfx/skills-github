@@ -278,3 +278,4 @@
 - 2020-04-23: Polish docs
 - 2020-06-13: Expand section
 - 2020-07-09: Improve docs
+- 2020-11-11: Expand section
