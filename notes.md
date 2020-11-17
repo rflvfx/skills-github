@@ -55,3 +55,4 @@
 - 2020-04-13: Expand section
 - 2020-07-04: Minor update
 - 2020-05-12: Update guide
+- 2020-11-17: Add note
