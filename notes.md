@@ -73,3 +73,4 @@
 - 2021-03-11: Fix example
 - 2021-12-21: Review content
 - 2021-04-14: Clarify section
+- 2021-01-04: Add detail
