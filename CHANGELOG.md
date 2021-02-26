@@ -311,3 +311,4 @@
 - 2021-05-03: Fix example
 - 2021-09-17: Add note
 - 2021-10-03: Improve docs
+- 2021-02-26: Add note
