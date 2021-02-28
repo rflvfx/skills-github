@@ -322,3 +322,4 @@
 - 2021-02-15: Minor update
 - 2021-02-19: Expand section
 - 2021-03-19: Review content
+- 2021-02-28: Polish docs
