@@ -307,3 +307,4 @@
 - 2021-11-22: Small fix
 - 2021-10-02: Add remark
 - 2021-09-05: Review content
+- 2021-03-16: Update guide
