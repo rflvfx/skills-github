@@ -74,3 +74,4 @@
 - 2021-12-21: Review content
 - 2021-04-14: Clarify section
 - 2021-01-04: Add detail
+- 2021-04-12: Clarify section
