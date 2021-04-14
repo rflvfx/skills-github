@@ -72,3 +72,4 @@
 - 2021-02-04: Improve docs
 - 2021-03-11: Fix example
 - 2021-12-21: Review content
+- 2021-04-14: Clarify section
