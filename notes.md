@@ -65,3 +65,4 @@
 - 2020-05-23: Add note
 - 2020-03-22: Add detail
 - 2021-08-15: Refine text
+- 2021-05-23: Update guide
