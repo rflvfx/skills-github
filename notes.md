@@ -67,3 +67,4 @@
 - 2021-08-15: Refine text
 - 2021-05-23: Update guide
 - 2021-09-01: Add remark
+- 2021-06-12: Review content
