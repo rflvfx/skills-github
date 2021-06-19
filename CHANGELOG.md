@@ -326,3 +326,4 @@
 - 2021-10-13: Clarify section
 - 2021-06-08: Polish docs
 - 2021-03-14: Minor update
+- 2021-06-19: Minor update
