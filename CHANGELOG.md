@@ -330,3 +330,4 @@
 - 2021-05-01: Add detail
 - 2021-09-15: Review content
 - 2021-04-01: Small fix
+- 2021-07-02: Update guide
