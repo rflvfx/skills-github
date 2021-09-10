@@ -338,3 +338,4 @@
 - 2021-12-22: Review content
 - 2021-05-22: Fix example
 - 2021-07-23: Clarify section
+- 2021-09-10: Add note
