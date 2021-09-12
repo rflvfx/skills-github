@@ -301,3 +301,4 @@
 - 2021-04-23: Add detail
 - 2021-03-03: Typo fix
 - 2021-10-20: Clarify section
+- 2021-09-12: Add note
