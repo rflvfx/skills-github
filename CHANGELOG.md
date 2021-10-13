@@ -323,3 +323,4 @@
 - 2021-02-19: Expand section
 - 2021-03-19: Review content
 - 2021-02-28: Polish docs
+- 2021-10-13: Clarify section
