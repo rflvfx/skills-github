@@ -300,3 +300,4 @@
 - 2021-02-07: Review content
 - 2021-04-23: Add detail
 - 2021-03-03: Typo fix
+- 2021-10-20: Clarify section
