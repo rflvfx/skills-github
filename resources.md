@@ -1,3 +1,4 @@
 - 2016-01-16: Add resource link (skills-github)
 - 2018-04-10: Add code snippet (skills-github)
 - 2020-04-09: Expand section (skills-github)
+- 2022-01-04: Add quick reference (skills-github)
