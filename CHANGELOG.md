@@ -341,3 +341,4 @@
 - 2021-09-10: Add note
 - 2022-09-19: Add note
 - 2022-07-04: Clarify section
+- 2022-01-20: Improve docs
