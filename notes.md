@@ -83,3 +83,4 @@
 - 2022-07-04: Review content
 - 2022-09-28: Minor update
 - 2022-08-03: Update guide
+- 2022-01-20: Polish docs
