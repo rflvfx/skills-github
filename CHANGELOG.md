@@ -346,3 +346,4 @@
 - 2022-08-19: Add note
 - 2022-12-27: Update guide
 - 2022-08-12: Review content
+- 2022-02-09: Refine text
