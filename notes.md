@@ -77,3 +77,4 @@
 - 2021-04-12: Clarify section
 - 2021-09-19: Clarify section
 - 2022-04-17: Fix example
+- 2022-04-12: Improve docs
