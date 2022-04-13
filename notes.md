@@ -87,3 +87,4 @@
 - 2022-11-01: Fix example
 - 2022-11-02: Add note
 - 2022-08-16: Fix example
+- 2022-04-13: Polish docs
