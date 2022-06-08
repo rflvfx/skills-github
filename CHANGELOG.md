@@ -366,3 +366,4 @@
 - 2022-01-12: Add remark
 - 2022-09-20: Add detail
 - 2022-06-01: Update notes
+- 2022-06-08: Add note
