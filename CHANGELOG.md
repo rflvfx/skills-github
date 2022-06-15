@@ -353,3 +353,4 @@
 - 2022-09-05: Minor update
 - 2022-01-14: Minor update
 - 2022-12-02: Add remark
+- 2022-06-15: Add detail
