@@ -369,3 +369,4 @@
 - 2022-06-08: Add note
 - 2022-06-18: Expand section
 - 2022-12-14: Update notes
+- 2022-06-17: Refine text
