@@ -15,3 +15,4 @@
 - 2020-11-02: Refine release automation guide
 - 2021-05-02: Expand label automation docs
 - 2022-05-02: Expand concurrency groups docs
+- 2022-06-20: Update job outputs reference
