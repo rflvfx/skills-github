@@ -80,3 +80,4 @@
 - 2022-04-12: Improve docs
 - 2022-02-23: Review content
 - 2022-04-15: Add note
+- 2022-07-04: Review content
