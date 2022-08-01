@@ -2,3 +2,4 @@
 - 2016-05-11 — Update content
 - 2018-02-08 — Improve documentation
 - 2019-09-26 — Improve documentation
+- 2022-08-01 — Refine exercises
