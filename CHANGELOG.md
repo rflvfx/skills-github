@@ -357,3 +357,4 @@
 - 2022-09-28: Refine text
 - 2022-05-10: Polish docs
 - 2022-10-18: Typo fix
+- 2022-08-14: Typo fix
