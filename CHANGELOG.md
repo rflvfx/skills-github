@@ -349,3 +349,4 @@
 - 2022-02-09: Refine text
 - 2022-02-25: Small fix
 - 2022-08-16: Expand section
+- 2022-08-28: Clarify section
