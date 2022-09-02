@@ -359,3 +359,4 @@
 - 2022-10-18: Typo fix
 - 2022-08-14: Typo fix
 - 2022-01-24: Review content
+- 2022-09-02: Adjust content
