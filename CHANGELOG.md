@@ -350,3 +350,4 @@
 - 2022-02-25: Small fix
 - 2022-08-16: Expand section
 - 2022-08-28: Clarify section
+- 2022-09-05: Minor update
