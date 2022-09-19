@@ -339,3 +339,4 @@
 - 2021-05-22: Fix example
 - 2021-07-23: Clarify section
 - 2021-09-10: Add note
+- 2022-09-19: Add note
