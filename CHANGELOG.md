@@ -354,3 +354,4 @@
 - 2022-01-14: Minor update
 - 2022-12-02: Add remark
 - 2022-06-15: Add detail
+- 2022-09-28: Refine text
