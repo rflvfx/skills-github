@@ -24,3 +24,4 @@
 - 2026-10-04: Expand security scanning docs
 - 2026-11-13: Expand matrix builds docs
 - 2021-02-15: Update artifact uploads reference
+- 2022-10-12: Document reusable workflows
