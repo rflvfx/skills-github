@@ -356,3 +356,4 @@
 - 2022-06-15: Add detail
 - 2022-09-28: Refine text
 - 2022-05-10: Polish docs
+- 2022-10-18: Typo fix
