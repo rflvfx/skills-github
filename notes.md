@@ -84,3 +84,4 @@
 - 2022-09-28: Minor update
 - 2022-08-03: Update guide
 - 2022-01-20: Polish docs
+- 2022-11-01: Fix example
