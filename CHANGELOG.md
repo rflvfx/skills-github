@@ -385,3 +385,4 @@
 - 2023-06-10: Typo fix
 - 2023-08-01: Update notes
 - 2023-08-12: Fix example
+- 2023-01-03: Typo fix
