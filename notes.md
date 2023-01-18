@@ -100,3 +100,4 @@
 - 2023-08-14: Adjust content
 - 2023-07-14: Update guide
 - 2023-09-12: Review content
+- 2023-01-18: Fix example
