@@ -378,3 +378,4 @@
 - 2022-08-07: Add note
 - 2022-11-25: Review content
 - 2022-04-04: Add note
+- 2023-03-02: Clarify section
