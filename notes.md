@@ -90,3 +90,4 @@
 - 2022-04-13: Polish docs
 - 2023-07-27: Clarify section
 - 2023-01-17: Minor update
+- 2023-04-12: Typo fix
