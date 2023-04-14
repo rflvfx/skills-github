@@ -400,3 +400,4 @@
 - 2023-04-13: Polish docs
 - 2023-05-24: Polish docs
 - 2023-11-19: Update guide
+- 2023-04-14: Refine text
