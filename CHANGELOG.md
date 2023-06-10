@@ -382,3 +382,4 @@
 - 2023-08-11: Typo fix
 - 2023-05-02: Improve docs
 - 2023-11-27: Clarify section
+- 2023-06-10: Typo fix
