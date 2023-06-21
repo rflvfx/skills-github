@@ -416,3 +416,4 @@
 - 2023-04-27: Adjust content
 - 2023-10-10: Add note
 - 2023-10-27: Clarify section
+- 2023-06-21: Polish docs
