@@ -407,3 +407,4 @@
 - 2023-08-17: Review content
 - 2023-06-18: Improve docs
 - 2023-01-04: Review content
+- 2023-07-01: Fix example
