@@ -98,3 +98,4 @@
 - 2023-04-07: Add detail
 - 2023-12-02: Clarify section
 - 2023-08-14: Adjust content
+- 2023-07-14: Update guide
