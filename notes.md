@@ -88,3 +88,4 @@
 - 2022-11-02: Add note
 - 2022-08-16: Fix example
 - 2022-04-13: Polish docs
+- 2023-07-27: Clarify section
