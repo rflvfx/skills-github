@@ -395,3 +395,4 @@
 - 2023-02-24: Review content
 - 2023-09-19: Add detail
 - 2023-09-24: Clarify section
+- 2023-09-04: Expand section
