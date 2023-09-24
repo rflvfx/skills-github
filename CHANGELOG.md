@@ -394,3 +394,4 @@
 - 2023-09-09: Update notes
 - 2023-02-24: Review content
 - 2023-09-19: Add detail
+- 2023-09-24: Clarify section
