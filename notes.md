@@ -93,3 +93,4 @@
 - 2023-04-12: Typo fix
 - 2023-11-03: Expand section
 - 2023-04-04: Clarify section
+- 2023-10-02: Polish docs
