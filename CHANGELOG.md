@@ -412,3 +412,4 @@
 - 2023-12-09: Add detail
 - 2023-02-23: Add detail
 - 2023-11-13: Clarify section
+- 2023-10-06: Update guide
