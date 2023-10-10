@@ -26,3 +26,4 @@
 - 2021-02-15: Update artifact uploads reference
 - 2022-10-12: Document reusable workflows
 - 2023-09-07: Refine code owners guide
+- 2023-10-10: Refine status checks guide
