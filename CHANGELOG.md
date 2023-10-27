@@ -415,3 +415,4 @@
 - 2023-10-06: Update guide
 - 2023-04-27: Adjust content
 - 2023-10-10: Add note
+- 2023-10-27: Clarify section
