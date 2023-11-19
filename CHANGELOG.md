@@ -399,3 +399,4 @@
 - 2023-01-27: Refine text
 - 2023-04-13: Polish docs
 - 2023-05-24: Polish docs
+- 2023-11-19: Update guide
