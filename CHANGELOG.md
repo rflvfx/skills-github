@@ -409,3 +409,4 @@
 - 2023-01-04: Review content
 - 2023-07-01: Fix example
 - 2023-07-13: Refine text
+- 2023-12-09: Add detail
