@@ -106,3 +106,4 @@
 - 2023-05-20: Expand section
 - 2024-02-11: Update notes
 - 2024-05-04: Polish docs
+- 2024-02-25: Small fix
