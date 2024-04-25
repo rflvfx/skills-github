@@ -445,3 +445,4 @@
 - 2024-06-22: Small fix
 - 2024-12-21: Typo fix
 - 2024-03-14: Expand section
+- 2024-04-25: Polish docs
