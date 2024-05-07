@@ -459,3 +459,4 @@
 - 2024-03-14: Refine text
 - 2024-07-15: Minor update
 - 2024-07-10: Update guide
+- 2024-05-07: Add detail
