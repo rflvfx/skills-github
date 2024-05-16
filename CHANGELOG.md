@@ -27,3 +27,4 @@
 - 2022-10-12: Document reusable workflows
 - 2023-09-07: Refine code owners guide
 - 2023-10-10: Refine status checks guide
+- 2024-05-16: Expand release automation docs
