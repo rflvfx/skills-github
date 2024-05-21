@@ -449,3 +449,4 @@
 - 2024-09-19: Review content
 - 2024-09-01: Update guide
 - 2024-01-03: Small fix
+- 2024-05-21: Polish docs
