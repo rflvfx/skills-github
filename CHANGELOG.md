@@ -452,3 +452,4 @@
 - 2024-05-21: Polish docs
 - 2024-12-26: Update guide
 - 2024-01-19: Polish docs
+- 2024-06-04: Polish docs
