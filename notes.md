@@ -109,3 +109,4 @@
 - 2024-02-25: Small fix
 - 2024-10-26: Improve docs
 - 2024-08-05: Add detail
+- 2024-07-07: Refine text
