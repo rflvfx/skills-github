@@ -458,3 +458,4 @@
 - 2024-06-18: Update notes
 - 2024-03-14: Refine text
 - 2024-07-15: Minor update
+- 2024-07-10: Update guide
