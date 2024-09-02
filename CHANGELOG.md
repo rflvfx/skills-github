@@ -461,3 +461,4 @@
 - 2024-07-10: Update guide
 - 2024-05-07: Add detail
 - 2024-09-20: Small fix
+- 2024-09-02: Clarify section
