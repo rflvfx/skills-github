@@ -428,3 +428,4 @@
 - 2024-02-26: Update notes
 - 2024-03-11: Fix example
 - 2024-08-01: Minor update
+- 2024-10-16: Add note
