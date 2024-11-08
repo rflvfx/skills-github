@@ -420,3 +420,4 @@
 - 2023-05-03: Expand section
 - 2024-02-05: Review content
 - 2024-04-20: Update notes
+- 2024-11-08: Polish docs
