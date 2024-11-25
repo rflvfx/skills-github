@@ -432,3 +432,4 @@
 - 2024-05-22: Update guide
 - 2024-03-09: Update notes
 - 2024-12-17: Update notes
+- 2024-11-25: Add note
