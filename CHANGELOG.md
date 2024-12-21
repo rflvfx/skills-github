@@ -443,3 +443,4 @@
 - 2024-10-05: Small fix
 - 2024-02-05: Add remark
 - 2024-06-22: Small fix
+- 2024-12-21: Typo fix
