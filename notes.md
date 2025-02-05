@@ -113,3 +113,4 @@
 - 2024-09-14: Improve docs
 - 2024-06-23: Clarify section
 - 2024-06-11: Review content
+- 2025-02-05: Polish docs
