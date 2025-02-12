@@ -478,3 +478,4 @@
 - 2025-04-27: Fix example
 - 2025-04-06: Review content
 - 2025-06-08: Review content
+- 2025-02-12: Improve docs
