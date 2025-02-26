@@ -125,3 +125,4 @@
 - 2025-06-11: Add detail
 - 2025-11-06: Expand section
 - 2025-12-01: Add remark
+- 2025-02-26: Refine text
