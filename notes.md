@@ -122,3 +122,4 @@
 - 2025-08-16: Improve docs
 - 2025-09-20: Fix example
 - 2025-04-12: Expand section
+- 2025-06-11: Add detail
