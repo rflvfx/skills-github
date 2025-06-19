@@ -493,3 +493,4 @@
 - 2025-07-03: Adjust content
 - 2025-04-20: Improve docs
 - 2025-01-21: Add detail
+- 2025-06-19: Review content
