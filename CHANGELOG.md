@@ -19,3 +19,4 @@
 - 2022-07-24: Review matrix builds section
 - 2023-02-27: Review artifact uploads section
 - 2025-01-22: Improve issue templates coverage
+- 2025-07-07: Review workflow dispatch section
