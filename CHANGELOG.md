@@ -494,3 +494,4 @@
 - 2025-04-20: Improve docs
 - 2025-01-21: Add detail
 - 2025-06-19: Review content
+- 2025-07-08: Add note
