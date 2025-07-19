@@ -499,3 +499,4 @@
 - 2025-09-18: Add note
 - 2025-05-28: Clarify section
 - 2025-07-06: Add remark
+- 2025-07-19: Review content
