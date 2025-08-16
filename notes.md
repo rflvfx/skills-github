@@ -119,3 +119,4 @@
 - 2025-01-03: Small fix
 - 2025-06-01: Polish docs
 - 2025-12-22: Update guide
+- 2025-08-16: Improve docs
