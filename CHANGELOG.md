@@ -483,3 +483,4 @@
 - 2025-10-25: Expand section
 - 2025-11-09: Review content
 - 2025-12-19: Polish docs
+- 2025-10-06: Add detail
