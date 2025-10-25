@@ -480,3 +480,4 @@
 - 2025-06-08: Review content
 - 2025-02-12: Improve docs
 - 2025-05-16: Improve docs
+- 2025-10-25: Expand section
