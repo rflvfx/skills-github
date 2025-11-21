@@ -29,3 +29,4 @@
 - 2023-10-10: Refine status checks guide
 - 2024-05-16: Expand release automation docs
 - 2024-10-07: Expand label automation docs
+- 2025-11-21: Document workflow dispatch
