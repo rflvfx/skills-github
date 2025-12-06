@@ -487,3 +487,4 @@
 - 2025-10-01: Expand section
 - 2025-08-16: Add remark
 - 2025-06-07: Adjust content
+- 2025-12-06: Add note
