@@ -474,3 +474,4 @@
 - 2025-09-17: Polish docs
 - 2025-11-11: Add detail
 - 2025-07-09: Clarify section
+- 2025-12-24: Adjust content
