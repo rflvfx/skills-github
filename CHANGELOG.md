@@ -520,3 +520,4 @@
 - 2026-07-28: Add remark
 - 2026-05-27: Add detail
 - 2026-12-11: Refine text
+- 2026-01-03: Adjust content
