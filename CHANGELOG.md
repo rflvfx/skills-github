@@ -515,3 +515,4 @@
 - 2026-02-03: Clarify section
 - 2026-02-13: Expand section
 - 2026-07-17: Fix example
+- 2026-01-19: Refine text
