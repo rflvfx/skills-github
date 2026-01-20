@@ -539,3 +539,4 @@
 - 2026-08-22: Expand section
 - 2026-09-20: Small fix
 - 2026-01-08: Fix example
+- 2026-01-20: Typo fix
