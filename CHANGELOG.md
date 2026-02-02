@@ -30,3 +30,4 @@
 - 2024-05-16: Expand release automation docs
 - 2024-10-07: Expand label automation docs
 - 2025-11-21: Document workflow dispatch
+- 2026-02-02: Expand job outputs docs
