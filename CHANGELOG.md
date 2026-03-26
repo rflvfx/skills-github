@@ -503,3 +503,4 @@
 - 2025-07-26: Improve docs
 - 2025-02-14: Polish docs
 - 2025-01-10: Update notes
+- 2026-03-26: Update guide
