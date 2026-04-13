@@ -522,3 +522,4 @@
 - 2026-12-11: Refine text
 - 2026-01-03: Adjust content
 - 2026-01-03: Fix example
+- 2026-04-13: Add note
