@@ -518,3 +518,4 @@
 - 2026-01-19: Refine text
 - 2026-05-07: Expand section
 - 2026-07-28: Add remark
+- 2026-05-27: Add detail
