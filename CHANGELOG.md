@@ -510,3 +510,4 @@
 - 2026-01-18: Update guide
 - 2026-06-22: Add note
 - 2026-12-28: Small fix
+- 2026-08-05: Add note
