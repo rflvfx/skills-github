@@ -130,3 +130,4 @@
 - 2025-01-26: Refine text
 - 2025-04-08: Fix example
 - 2025-12-10: Add remark
+- 2026-08-23: Clarify section
