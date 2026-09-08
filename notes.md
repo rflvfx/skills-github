@@ -142,3 +142,4 @@
 - 2026-02-15: Add remark
 - 2026-11-19: Adjust content
 - 2026-07-19: Refine text
+- 2026-09-08: Minor update
