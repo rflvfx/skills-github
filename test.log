@@ -1,0 +1,6 @@
+
+> skills-github@1.0.0 test
+> node test.js
+
+Teste de CI do GitHub Actions
+OK
