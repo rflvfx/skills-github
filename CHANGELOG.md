@@ -21,3 +21,4 @@
 - 2025-01-22: Improve issue templates coverage
 - 2025-07-07: Review workflow dispatch section
 - 2026-08-14: Add concurrency groups examples
+- 2026-10-04: Expand security scanning docs
