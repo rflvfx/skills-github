@@ -134,3 +134,4 @@
 - 2026-12-06: Update notes
 - 2026-11-25: Improve docs
 - 2026-02-14: Clarify section
+- 2026-10-22: Add detail
