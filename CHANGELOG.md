@@ -505,3 +505,4 @@
 - 2025-01-10: Update notes
 - 2026-03-26: Update guide
 - 2026-10-14: Review content
+- 2026-11-01: Refine text
