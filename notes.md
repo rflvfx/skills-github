@@ -132,3 +132,4 @@
 - 2025-12-10: Add remark
 - 2026-08-23: Clarify section
 - 2026-12-06: Update notes
+- 2026-11-25: Improve docs
